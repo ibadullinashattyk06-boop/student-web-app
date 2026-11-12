@@ -1,4 +1,3 @@
-export const dynamic = 'force-dynamic';
 import { neon } from '@neondatabase/serverless';
 import { revalidatePath } from 'next/cache';
 
